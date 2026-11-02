@@ -43,7 +43,7 @@ individual is officially representing the project in public spaces.
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported to the maintainer through the contact listed on the GitHub profile
-of [JK-0001](https://github.com/JK-0001). All complaints will be reviewed and
+of [quakyduckydood-maker](https://github.com/quakyduckydood-maker). All complaints will be reviewed and
 investigated promptly and fairly.
 
 ## Attribution

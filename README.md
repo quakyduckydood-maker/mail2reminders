@@ -3,7 +3,7 @@
 Turn date and time mentions in your Apple Mail inbox into Apple Reminders —
 automatically, locally, and without handing your password to anyone.
 
-[![CI](https://github.com/JK-0001/mail2reminders/actions/workflows/ci.yml/badge.svg)](https://github.com/JK-0001/mail2reminders/actions/workflows/ci.yml)
+[![CI](https://github.com/quakyduckydood-maker/mail2reminders/actions/workflows/ci.yml/badge.svg)](https://github.com/quakyduckydood-maker/mail2reminders/actions/workflows/ci.yml)
 
 ```
 Mail.app (iCloud)  ──Apple Events──▶  mail2reminders  ──JXA──▶  Reminders.app
@@ -59,7 +59,7 @@ school inbox ──auto-forward──▶ iCloud ──Mail.app──▶ mail2rem
 ## Install
 
 ```bash
-git clone https://github.com/JK-0001/mail2reminders.git
+git clone https://github.com/quakyduckydood-maker/mail2reminders.git
 cd mail2reminders
 python3 -m pip install --user -e .
 ```

@@ -6,7 +6,7 @@ dates, create reminders. Please keep changes in that spirit.
 ## Development setup
 
 ```bash
-git clone https://github.com/JK-0001/mail2reminders.git
+git clone https://github.com/quakyduckydood-maker/mail2reminders.git
 cd mail2reminders
 python3 -m pip install -e ".[test]"
 ```

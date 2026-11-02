@@ -9,7 +9,7 @@ description = "Extract dates and times from Apple Mail and create Apple Reminder
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "JK-0001" }]
+authors = [{ name = "quakyduckydood-maker" }]
 keywords = ["apple", "mail", "reminders", "macos", "automation", "productivity"]
 classifiers = [
     "Development Status :: 4 - Beta",

@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: Setup and troubleshooting
-    url: https://github.com/JK-0001/mail2reminders#troubleshooting
+    url: https://github.com/quakyduckydood-maker/mail2reminders#troubleshooting
     about: Installation, permissions, and common errors
   - name: Security report
-    url: https://github.com/JK-0001/mail2reminders/security/advisories/new
+    url: https://github.com/quakyduckydood-maker/mail2reminders/security/advisories/new
     about: Report a vulnerability privately
