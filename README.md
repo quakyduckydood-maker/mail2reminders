@@ -245,9 +245,18 @@ Adding a date format: add a regex block in `parse.py`, then add a case to
 
 ## Contributing
 
-Issues and pull requests are welcome. Please include a redacted sample (sender,
-subject, and the date phrase) when reporting a parsing bug. Do not paste real
-email addresses.
+Issues and pull requests are welcome. Read
+[CONTRIBUTING.md](CONTRIBUTING.md) for the development setup, commit style, and
+how to add a date format. Please include a redacted sample (subject and the
+date phrase) when reporting a parsing bug. Do not paste real email addresses.
+
+This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md).
+
+## Security
+
+`mail2reminders` never handles your email password and makes no network calls
+of its own. If you find a security problem, please report it privately as
+described in [SECURITY.md](SECURITY.md).
 
 ## License
 
