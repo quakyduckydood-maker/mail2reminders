@@ -1,0 +1,30 @@
+{
+  "mail": {
+    "mode": "mailapp",
+    "account": "iCloud",
+    "mailbox": "INBOX",
+    "lookback_days": 2,
+    "max_messages": 200,
+    "max_chars": 20000
+  },
+  "reminders": {
+    "list": "Email Reminders",
+    "max_per_email": 3,
+    "notify_on_run": true
+  },
+  "parsing": {
+    "date_order": "DMY",
+    "default_time": "09:00",
+    "require_event_keyword": true,
+    "max_future_days": 180,
+    "same_day_window_hours": 4,
+    "keywords": [
+      "meeting", "call", "appointment", "deadline", "due", "rsvp", "interview",
+      "webinar", "event", "session", "class", "exam", "flight", "booking",
+      "reservation", "reminder", "schedule", "demo", "presentation", "zoom",
+      "teams", "google meet", "submit", "submission", "assignment", "departure",
+      "arrival", "check-in", "check in", "party", "dinner", "lunch", "concert",
+      "ticket", "registration", "orientation", "lecture", "tutorial", "seminar"
+    ]
+  }
+}
